@@ -11,9 +11,9 @@ The goal is to build a centralized monitoring system capable of detecting threat
 ---
 
 ## Requirements
-- Ubuntu Server (latest version)
 - Proxmox VE
 - Wazuh OVA
+- Minimum 4GB Storage Size
 
 ## Notes and Tips
 - Be sure to set a static IP address, subnet mask, and default gateway in the Wazuh configuration file.
@@ -21,3 +21,4 @@ The goal is to build a centralized monitoring system capable of detecting threat
 ## References
 - [Official Wazuh Documentation](https://documentation.wazuh.com/)
 - [Wazuh GitHub Repository](https://github.com/wazuh/wazuh)
+
