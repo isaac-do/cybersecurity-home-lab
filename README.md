@@ -43,6 +43,9 @@ All configurations, architectures, and findings are documented in Obsidian and s
 # 🚀 Setup Guide
 - [Proxmox VE Server Setup](001-Proxmox/README.md)
 - [Active Directory Setup](002-ActiveDirectory/README.md)
+- [Kali Linux Setup](004-Kali-Linux/README.md)
+- [Docker/Portainer Setup](003-Docker/README.md)
+- [Wazuh Setup](005-Wazuh/README.md)
 ---
 
 # 📂 Resources
