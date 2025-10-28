@@ -29,3 +29,7 @@ Attached the cables.
 Final product! I'm very happy with how it turned out, and it is much cleaner than my old setup.
 
 There are still some improvements I am looking to make with this. First being the patch panel, I will upgrade with a full sized patch panel so it properly fits in this rack. Second, I will get a brushed rack mount to fit in between my switch and router so it covers that space but still allows me to run cables.
+
+Update 10/19/2025:
+I moved the setup onto a table and connected to my house's wall port instead of using a Wi-Fi extender.
+![](TurtugaLab/SS/SS-10212025_1.jpg)
