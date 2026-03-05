@@ -6,7 +6,7 @@ All configurations, architectures, and findings are documented in Obsidian and s
 
 ---
 
-# 🧱 Lab Architecture
+# Lab Architecture
 ## Physical Hardware
 ![](SS/SS-10212025_1.jpg)
 
@@ -18,7 +18,7 @@ All configurations, architectures, and findings are documented in Obsidian and s
 
 ---
 
-# 🔧 Tech Stack
+# Tech Stack
 
 | Component            | Purpose                                                                                                                                                                 |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,11 +36,10 @@ All configurations, architectures, and findings are documented in Obsidian and s
 | **Pi-hole**          | Network-wide DNS sinkhole used for ad blocking, DNS filtering, and traffic visibility.                                                                                  |
 | **VirusTotal**       | Threat intelligence integration for analyzing suspicious files and URLs using multiple antivirus engines.                                                               |
 | **Metasploitable 2** | Intentionally vulnerable Linux VM for penetration testing practice and exploit simulation.                                                                              |
-| **Metasploitable 3** | Intentionally vulnerable Windows VM for more complex penetration testing and red team scenarios.                                                                        |
 
 ---
 
-# 🚀 Setup Guide
+# Setup Guide
 - [Proxmox VE Server Setup](001-Proxmox/README.md)
 - [Active Directory Setup](002-ActiveDirectory/README.md)
 - [Kali Linux Setup](004-Kali-Linux/README.md)
@@ -48,7 +47,7 @@ All configurations, architectures, and findings are documented in Obsidian and s
 - [Wazuh Setup](005-Wazuh/README.md)
 ---
 
-# 📂 Resources
+# Resources
 1. Proxmox VE: https://www.proxmox.com/en/
 2. Kali Linux: https://www.kali.org/
 3. Windows Server 2022: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
