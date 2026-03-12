@@ -5,7 +5,7 @@ The goal is to set up a clean, secure, and well-documented Kali environment that
 ---
 
 # Table of Content
-- [004.001-Kali-Linux-Initial-Setup](https://github.com/isaac-do/Cybersecurity-Home-Lab/blob/main/004-Kali-Linux/004.001-Kali-Linux-Initial-Setup.md)
+- [004.001-Kali-Linux-Initial-Setup](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/004-Kali-Linux/004.001_kali_linux_initial_setup.md)
 
 ---
 
@@ -24,3 +24,4 @@ The goal is to set up a clean, secure, and well-documented Kali environment that
 
 ## References
 - [Official Kali Linux Documentation](https://www.kali.org/docs/)
+
