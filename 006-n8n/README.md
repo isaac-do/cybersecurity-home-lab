@@ -5,7 +5,7 @@ The goal is to build low-code automation pipelines that reduce manual work and i
 ---
 
 # Table of Content
-- [006.001-n8n-Initial-Setup](https://github.com/isaac-do/Cybersecurity-Home-Lab/blob/main/006-n8n/006.001-n8n-Initial-Setup.md)
+- [006.001-n8n-Initial-Setup](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/006-n8n/006.001_n8n_initial_setup.md)
 
 ---
 
@@ -18,3 +18,4 @@ The goal is to build low-code automation pipelines that reduce manual work and i
 
 ## References
 - [Official n8n Documentation](https://docs.n8n.io/)
+
