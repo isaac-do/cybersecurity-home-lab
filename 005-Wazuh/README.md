@@ -5,8 +5,8 @@ The goal is to build a centralized monitoring system capable of detecting threat
 ---
 
 # Table of Content
-- [005.001-Wazuh-Initial-Setup](https://github.com/isaac-do/Cybersecurity-Home-Lab/blob/main/005-Wazuh/005.001-Wazuh-Initial-Setup.md)
-- [005.002-Deploy-Wazuh-Agents](https://github.com/isaac-do/Cybersecurity-Home-Lab/blob/main/005-Wazuh/005.002-Deploy-Wazuh-Agents.md)
+- [005.001-Wazuh-Initial-Setup](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/005-Wazuh/005.001_wazuh_initial_setup.md)
+- [005.002-Deploy-Wazuh-Agents](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/005-Wazuh/005.002_deploy_wazuh_agents.md)
 
 ---
 
