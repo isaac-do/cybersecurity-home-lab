@@ -32,4 +32,4 @@ There are still some improvements I am looking to make with this. First being th
 
 Update 10/19/2025:
 I moved the setup onto a table and connected to my house's wall port instead of using a Wi-Fi extender.
-![](TurtugaLab/SS/SS-10212025_1.jpg)
+![](../SS/SS-10212025_1.jpg)
