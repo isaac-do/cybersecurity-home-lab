@@ -8,6 +8,6 @@ Tools:
 ---
 
 # Table of Content
-- [001.01 Remove 'No valid subscription' Prompt](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/001-Proxmox/001.01_remove_no_valid_subscription_prompt.md)
-- [001.02 Update Proxmox](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/001-Proxmox/001.02_update_proxmox.md)
-- [001.03 Install Tailscale (Optional)](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/001-Proxmox/001.03_install_tailscale_optional.md)
+- [001.01_remove_no_valid_subscription_prompt](001.01_remove_no_valid_subscription_prompt.md)
+- [001.02_update_proxmox](001.02_update_proxmox.md)
+- [001.03_install_tailscale_optional](001.03_install_tailscale_optional.md)

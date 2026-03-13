@@ -6,8 +6,8 @@ Docker allows for lightweight, isolated environments that can be spun up or torn
 ---
 
 # Table of Content
-- [003.001-Docker-Initial-Setup](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/003-Docker/003.001_docker_initial_setup.md)
-- [003.002-Portainer-Setup](https://github.com/isaac-do/cybersecurity-home-lab/blob/main/003-Docker/003.002_portainer_setup.md)
+- [003.001_docker_initial_setup](003.001_docker_initial_setup.md)
+- [003.002_portainer_setup](003.002_portainer_setup.md)
 
 ---
 
